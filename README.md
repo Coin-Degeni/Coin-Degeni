@@ -9,7 +9,7 @@
 </span></h2>
  <div align="justify-between"> 
  <h2><a href="https://github.com/Coin-Degeni/Bitcoin">Bitcoin projects Overview</a></h2>
- <h2><a href="https://github.com/Coin-Degeni/Bitcoin">EVM projects Overview</a></h2>
+ <h2><a href="https://github.com/Coin-Degeni/Bitcoin">EVM projects Overview</a></h2></div>
 </div> 
 
 ## 🛠  Technologies and tools
