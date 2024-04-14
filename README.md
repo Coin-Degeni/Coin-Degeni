@@ -7,8 +7,9 @@
  <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
 </span></h2>
- <h2> <a href="https://github.com/Coin-Degeni/Bitcoin">Bitcoin projects Overview</a></h2>
- <h2> <a href="https://github.com/Coin-Degeni/Bitcoin">EVM projects Overview</a></h2>
+ <div align="justify-between"> 
+ <h2><a href="https://github.com/Coin-Degeni/Bitcoin">Bitcoin projects Overview</a></h2>
+ <h2><a href="https://github.com/Coin-Degeni/Bitcoin">EVM projects Overview</a></h2>
 </div> 
 
 ## 🛠  Technologies and tools
