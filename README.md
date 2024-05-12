@@ -1,4 +1,4 @@
-<div align="center" ><h1>✨ Blockchain ✨ </h1>
+<div align="center" ><h1>✨ BTC|ETH|SOL ✨ </h1>
  
 </div> 
 
